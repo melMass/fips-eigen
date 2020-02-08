@@ -1,0 +1,7 @@
+# fip-eigen
+---
+exports:
+    header-dirs:
+        - eigen/Eigen
+    modules:
+        eigen: .
